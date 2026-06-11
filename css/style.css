@@ -134,13 +134,13 @@ nav a:hover {
 
 .pagina-titulo p,
 .resumo-compra p,
-.fundador p,
-.cabecalho-vitrine p {
+.fundador p {
     color: #57534e;
 }
 
 .cabecalho-vitrine > p {
     margin-bottom: 18px;
+     color: #57534e;
 }
 
 .categorias ul {
